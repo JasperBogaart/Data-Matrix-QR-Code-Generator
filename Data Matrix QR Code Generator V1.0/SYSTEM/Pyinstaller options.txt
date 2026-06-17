@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon="C:\\Users\\jaspe\\Envs\\qr_code\\QR_Code.ico" qr_code_generator(1).py
